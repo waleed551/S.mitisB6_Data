@@ -1,0 +1,90 @@
+2 c3mtjA_ Probab=100.00  E-value=7.8e-90  Score=697.60  Aligned_cols=411  Identities=38%  Similarity=0.644  Sum_probs=360.3  Template_Neff=10.096
+
+Q ss_pred             CceEEEECCCHHHHHHHHHHHhhhHHHHHhcCCCcEEEEEEeCCHHHHHHHHHhcCCceE
+Q HSD_Phyre2        1 TVKIALLGFGTVASGVPFLLKENGEKINQSAHSEIEVAKVLVKDEDEKNRLLAAGNDFNF   60 (426)
+Q Consensus         1 TIkIgLiG~G~VG~~~~~iL~~~~~~i~~~~g~~i~I~~V~~r~~~k~r~~~~~~~~~~~   60 (426)
+                      +++|+|+|+|.||+.+++.+.++...+.++.+.+++++++++++..+.+.+. . ....+
+T Consensus         5 ~~~v~liG~G~vG~~~~~~l~~~~~~~~~~~~~~~~i~~v~~~~~~~~~~~~-~-~~~~~   62 (424)
+T c3mtjA_           5 PIHVGLLGLGTVGGGTLTVLRRNAEEITRRAGREIRVVRAAVRNLDKAEALA-G-GLPLT   62 (424)
+T ss_dssp             CEEEEEECCHHHHHHHHHHHHHTHHHHHHHHSSCEEEEEEECSCHHHHHHHH-T-TCCEE
+T ss_pred             eeEEEEEecChHHHHHHHHHHhChHHHHHhcCCcEEEEEEEECCcccccccc-c-ccccc
+Confidence            4799999999999999999999888888888888999999999977655321 1 11246
+
+
+Q ss_pred             eCCHHHHHcCCCCCEEEEeCCCchhhHHHHHHHHHCCCeEEEcchHHHHHhHHHHHHHHH
+Q HSD_Phyre2       61 VTNVDDILSDQDITIVVELMGRIEPAKTFITRALEAGKHVVTANKDLLAVHGAELLEIAQ  120 (426)
+Q Consensus        61 t~d~~eil~d~eIDVVVe~tgg~~~a~~~i~~ALeaGKHVVTANK~llA~~g~EL~~lA~  120 (426)
+                      +.++.++++++++|+|++|+++..++..++ .+|++|+||||+||.+++.++++|.++|+
+T Consensus        63 ~~~~~~~~~~~~~dvvv~~~~~~~~~~~~~-~al~~g~~vvtanK~~~~~~~~~l~~~a~  121 (424)
+T c3mtjA_          63 TTNPFDVVDDPEIDIVVELIGGLEPARELV-QAIANGKHVVTANKHLVAKYGNEIFAAAQ  121 (424)
+T ss_dssp             S-CTHHHHTCTTCCEEEECCCSSTTHHHHS-CTTTTTCEEEECCHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHhhcCCCCEEEEeCCCcHHHHHHH-HHHhCCCEEEccCchHhHhHHHHHHHHHH
+Confidence            789999999889999999999877888878 99999999999999888899999999999
+
+
+Q ss_pred             HcCCEEEecCc-hhhhhhhHHHHHHhhccCeeeEEEEEeccchHHHHHHHhhcCCCHHHH
+Q HSD_Phyre2      121 ANKVALYYEAA-VAGGIPILRTLANSLASDKITRVLGVVNGTSNFMMTKMVEEGWSYDDA  179 (426)
+Q Consensus       121 ~~gv~l~fEas-V~gGiPii~~l~~~l~g~~I~~i~GIlNGT~NyILt~m~~~g~~f~~a  179 (426)
+                      ++|+. +|+++ +++++|+++.+++.+.+++|++|.|++|||+||||+++ .+|.+|+||
+T Consensus       122 ~~~~~-~~ea~~v~~g~P~i~~l~~~~~~~~i~~i~gi~ngt~n~il~~~-~~g~~~~~a  179 (424)
+T c3mtjA_         122 AKGVV-TFEAAVVAGGIPIIKALREGLTANRIEWLAGIINGTSNFILSER-DKGAAFDDV  179 (424)
+T ss_dssp             HHTCC-BCGGGS-STTSCHHHCCCCCTTTSCEEEEEEECCHHHHHHHHCS-SSCCCHHHH
+T ss_pred             HcCCC-ccccccccCCCchHHHHHHHhhcCCcccccceecchHhhhhhhh-hCCCcHHHH
+Confidence            99998 99999 99999999999999999999999999999999999995 689999999
+
+
+Q ss_pred             HHHHHHCCCCCCccccCcCCHhHHHHHHHHHHHHcCCCCCHHHeeehhhhcccHHHHHHH
+Q HSD_Phyre2      180 LAEAQRLGFAESDPTNDVDGIDAAYKMVILSQFAFGMKVAFDDVAHKGIRNITPEDVAVA  239 (426)
+Q Consensus       180 L~eAq~lGyAE~DP~~Dv~G~Daa~Kl~ILa~~afg~~~~~~~v~~egI~~i~~~Di~~a  239 (426)
+                      |++||++||+|+||+.|++|+|+++|+.||++++||.+ ++++|.++||.+++.+|+++|
+T Consensus       180 l~~A~~~G~aE~dp~~D~~G~D~a~Kl~il~~~~~g~~-~~~~i~~~gi~~~~~~d~~~a  238 (424)
+T c3mtjA_         180 LKEAQRLGYAEADPTFDIEGIDAAHKLTILSAIAFGIP-QFERAYTEGISQLTREDVRYA  238 (424)
+T ss_dssp             HHHHHHHTSSCSSCHHHHTSHHHHHHHHHHHHHHHTCC-CGGGCEECCSTTCCHHHHHHH
+T ss_pred             HHHHHHhCCCCCCcCCCCCCChHHHHHHHHHHHHhCCC-CccccCcCCCcCCCHHHHHHH
+Confidence            99999999999999999999999999999999999999 999999999999999999999
+
+
+Q ss_pred             HHCCCeEEEEEEEEecCCeEEEEEEEEEecCCCcccccCCCceEEEEEeeeeccEEEEcC
+Q HSD_Phyre2      240 QELGYVVKLVGSIEETPSGIAAEVTPTFLPKAHPLASVNGVMNAVFVESIGIGESMYYGP  299 (426)
+Q Consensus       240 ~~~g~~iklia~~~~~~~~i~~~V~p~~v~~~~pla~v~g~~Nav~i~~~~~g~~~~~G~  299 (426)
+                      ++.|+++|||+.+++.++++.++|+|++||++|||+++.|. |++.++|+..++++++|+
+T Consensus       239 ~~~g~~~klv~~~~~~~~~~~~~v~p~~v~~~~~l~~~~~~-n~v~~~~~~~~~~~~~g~  297 (424)
+T c3mtjA_         239 EELGYRIKLLGIARRAENGIELRVHPTLIPERRLIANVDGA-NAVLVKGDAVGPTLYYGA  297 (424)
+T ss_dssp             HHTTEEEEEEEEEEECSSSEEEEEEEEEEETTSTGGGCCSS-CEEEEEETTTEEEEEESC
+T ss_pred             HHcCCeEEEEEEEEEcCCceEEEEEEEEecccchhcccCcc-cEEEEEccCCceEEEEec
+Confidence            99999999999998754368899999999999999999999 999999999999999999
+
+
+Q ss_pred             CCCchhhHHHHHHHHHHHHh-hcccCC-CCCCcc-c--ccccccccChhhcccceEEEEE
+Q HSD_Phyre2      300 GAGQKPTATSVVADIVRIVR-RLNDGT-IGKDFN-E--YSRDLVLANPEDVKANYYFSIL  354 (426)
+Q Consensus       300 GAG~~~TAsaV~~Dii~i~r-~~~~~~-~~~~~~-~--~~~~~~~~~~~~~~~~~ylr~~  354 (426)
+                      |||+.+||+||++|++++++ ....+. ..+... .  .+...++.+ ++.+.+||+|+.
+T Consensus       298 gag~~~ta~av~~D~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~r~~  356 (424)
+T c3mtjA_         298 GAGSEPTASAVVADLVDVTRLHTADPHHRVPHLAFQPDQLADTPILP-EAVRTAYYLRLR  356 (424)
+T ss_dssp             CSSHHHHHHHHHHHHHHHHHHHHHCTTCSSCCCSSCGGGCCC--B-S-SCCEEEEEEEEE
+T ss_pred             CCCCccccccchhcHHHHHHhcCCCccccccccccccccccccceec-ccccceEEEEee
+Confidence            99999999999999999998 532100 011100 1  112223445 667899999999
+
+
+Q ss_pred             ecCCCchHHHHHHHHHhcCCchhhhccCCCCCCceeEEEEEeecCHHHHHHHHHHHhcCC
+Q HSD_Phyre2      355 APDSKGQVLKLAEIFNAQDISFKQILQDGKEGDKARVVIITHKINKTQLENVSAELKKVS  414 (426)
+Q Consensus       355 ~~d~pg~l~~i~~~~~~~~isi~~~~q~~~~~~~~~~~~~th~~~~~~~~~~~~~i~~~~  414 (426)
+                      . |.++++++|.++|.+++|+|+++ |.    ...+++++|+++++..+.++++++++++
+T Consensus       357 ~-~~~~~~~~~~~~~~~~~~~~~~~-~~----~~~~~~~~~~~~~~~~~~~~~~~~~~~~  410 (424)
+T c3mtjA_         357 A-FRPGVLADITRILADSSISIDAV-QK----EQVDIILLTHVTLEKNVNAAIAKIEALD  410 (424)
+T ss_dssp             E-CSSHHHHHHHHHHHHTT--BCCC-BC----SSEEEEEEBCSEEHHHHHHHHHHHTTST
+T ss_pred             c-cccchHHHHHHHHhhCCeEeeec-cc----cCceEEEEeCcCCHHHHHHHHHHHhccc
+Confidence            9 99999999999999999999988 75    2467899999999999999999999999
+
+
+Q ss_pred             Cc-cccccccccC
+Q HSD_Phyre2      415 EF-DLLNTFKVLG  426 (426)
+Q Consensus       415 ~~-~~~~~~rv~~  426 (426)
+                      .+ .. .++|+++
+T Consensus       411 ~~~~~-~~~~~~~  422 (424)
+T c3mtjA_         411 AVAGK-VRIRLED  422 (424)
+T ss_dssp             TBCSC-CCEEECC
+T ss_pred             ccccc-eEEEEee
+Confidence            88 87 8999874
+
+
